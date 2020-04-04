@@ -19,7 +19,6 @@
 .env.production.local
 
 /.idea
-public
 find-your-robofriends.iml
 
 
