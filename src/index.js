@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App.js'
+import App from './containers/App'
 import 'tachyons';
 import * as serviceWorker from './serviceWorker';
+// import './containers/App.css';
 
 ReactDOM.render(
     <App/>,
