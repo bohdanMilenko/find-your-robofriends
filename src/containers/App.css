@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rocket Pop Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rocket Pop Regular'), url('../components/rocketpop.woff') format('woff');
+}
+
+h1 {
+    font-family: "Rocket Pop Regular";
+    font-size: xx-large;
+    font-weight: 100;
+    color: #ffb700;
+}

@@ -1,0 +1,8 @@
+#backgr {
+    background-color: rgb(255,199,57) ;
+}
+
+::placeholder{
+    color: #ffb700;
+    font-weight: lighter;
+}
